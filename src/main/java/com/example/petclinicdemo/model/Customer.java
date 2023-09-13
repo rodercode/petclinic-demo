@@ -1,7 +1,8 @@
 package com.example.petclinicdemo.model;
 import jakarta.persistence.*;
 import lombok.*;
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
@@ -16,7 +17,7 @@ public class Customer {
     private String name;
 
     @Column(name = "adress", nullable = false)
-    private int adress;
+    private String adress;
 
     @Column(name = "city", nullable = false)
     private String city;
@@ -25,6 +26,6 @@ public class Customer {
     private String phone_number;
 
     @Column(name = "pet", nullable = false)
-    private int pet;
+    private String pet;
 
 }
