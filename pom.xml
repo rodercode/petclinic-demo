@@ -60,5 +60,4 @@
         </plugins>
         <finalName>petclinic-demo</finalName>
     </build>
-
 </project>
