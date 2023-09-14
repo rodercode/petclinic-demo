@@ -58,6 +58,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>petclinic-demo</finalName>
     </build>
 
 </project>
