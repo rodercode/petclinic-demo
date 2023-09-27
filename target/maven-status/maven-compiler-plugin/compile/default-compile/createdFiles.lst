@@ -1,6 +1,0 @@
-com\example\petclinicdemo\model\Customer.class
-com\example\petclinicdemo\repository\CustomerRepository.class
-com\example\petclinicdemo\PetclinicDemoApplication.class
-com\example\petclinicdemo\Service\CustomerService.class
-com\example\petclinicdemo\model\Customer$CustomerBuilder.class
-com\example\petclinicdemo\Controller\CustomerController.class
